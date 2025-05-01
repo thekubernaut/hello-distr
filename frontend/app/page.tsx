@@ -17,10 +17,10 @@ export default async function Home() {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>The&nbsp;</span>
-        <span className={title({ color: "violet" })}>easiest&nbsp;</span>
+        <span className={title()}>Distr&nbsp;</span>
+        <span className={title({ color: "violet" })}>LevelUP!&nbsp;</span>
         <br />
-        <span className={title()}>way to distribute enterprise software</span>
+        <span className={title()}>your Software Distribution</span>
         <div className={subtitle({ class: "mt-4" })}>Distr.</div>
       </div>
 

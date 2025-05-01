@@ -5,7 +5,7 @@ It consists of a next.js application, a Python backend and a Postgresql database
 The containers are deployed via docker compose behind a Caddy reverse proxy, allowing access to the frontend and the
 Python API.
 
-Feel free to fork it, tinker around a bit and find out what Distr can offer for your on premises software. 
+Feel free to fork it, tinker around a bit and find out what Distr can offer for your self-managed software. 
 
 ## Tools
 
