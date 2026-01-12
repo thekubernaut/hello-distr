@@ -1,6 +1,6 @@
 # hello-distr
 
-This is a web application to demonstrate the build, deployment and release workflow for applications in Distr.
+This is a WEB application to demonstrate the build, deployment and release workflow for applications in Distr.
 It consists of a next.js application, a Python backend and a Postgresql database. 
 The containers are deployed via docker compose behind a Caddy reverse proxy, allowing access to the frontend and the
 Python API.
